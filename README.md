@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajood</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-- 🔭 I’m currently working as **Software Engineer **
+- 🔭 I’m currently working as **Software Engineer**
 
 - 📫 How to reach me **sajood415@gmail.com**
 
