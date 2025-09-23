@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sajood</h1>
 <h3 align="center">A Passionate Senior Full Stack Developer</h3>
 
-- 🔭 I’m currently working as **MERN Stack Developer**
+- 🔭 I’m currently working as **Senior MERN Stack Developer**
 
 - 📫 How to reach me **sajood415@gmail.com**
 
